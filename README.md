@@ -50,6 +50,10 @@ A web application for molecular docking using **Smina** and interactive 3D visua
 
 ## 🚀 Quick Start
 
+For running this application locally, follow the steps in the file "WINDOWS_SETUP.md"
+
+
+
 ### Local Installation
 
 ```bash
