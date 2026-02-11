@@ -50,12 +50,6 @@ A web application for molecular docking using **Smina** and interactive 3D visua
 
 ## 🚀 Quick Start
 
-### Running on Replit
-
-1. Click the **Run** button
-2. Flask server starts automatically on port 5000
-3. Access the web interface in the preview window
-
 ### Local Installation
 
 ```bash
